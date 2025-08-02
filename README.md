@@ -13,7 +13,7 @@ Our NuGet packages are a mix of production-grade libraries used in the Orbyss pl
 
 ## 📦 Featured Repositories
 
-### 🧾 <img src="[https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/script/json-programming-e614b.png](https://tse2.mm.bing.net/th/id/OIP.KckXqAg1RkJOIfiK0cJqfwHaHa?pid=Api)" width="24" /> [Orbyss.Components.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.JsonForms)
+### 🧾 <img src="https://tse2.mm.bing.net/th/id/OIP.KckXqAg1RkJOIfiK0cJqfwHaHa?pid=Api" width="24" /> [Orbyss.Components.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.JsonForms)
 The core library that wraps the [JsonForms.io](https://jsonforms.io) standard to generate forms in Blazor using **JSON Schema**, **UI Schema**, and **translation schema**.  
 Built to be UI-framework agnostic, it requires a custom `ComponentInstanceProvider` for integration with specific Blazor libraries.
 
