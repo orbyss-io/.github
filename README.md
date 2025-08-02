@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./orbyss-appicon-transparent.png" alt="Orbyss Logo" width="180" style="border-radius: 50%;">
+  <img src="./orbyss-appicon-white.svg" alt="Orbyss Logo" width="180" style="border-radius: 50%;">
 </p>
 
 # 👋 Welcome to Orbyss.io
