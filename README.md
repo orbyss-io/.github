@@ -21,12 +21,12 @@ Built to be UI-framework agnostic, it requires a custom `ComponentInstanceProvid
 
 ### 🎨 [Orbyss.Components.MudBlazor.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.MudBlazor.JsonForms)
 An extension of `Orbyss.Components.JsonForms` for [MudBlazor](https://mudblazor.com).  
-Renders JSON-based forms using `MudTextField`, `MudDatePicker`, and other MudBlazor components via a MudBlazor-specific `ComponentInstanceProvider`.
+Renders JSON-based forms using `MudTextField`, `MudDatePicker`, etc., with full support for schema-driven UI generation.
 
 ---
 
 ### 📊 [Orbyss.Components.Syncfusion.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.Syncfusion.JsonForms)
-A Syncfusion-powered extension of `Orbyss.Components.JsonForms`.  
+A [Syncfusion](https://www.syncfusion.com/)-powered extension of `Orbyss.Components.JsonForms`.  
 Renders forms using Syncfusion Blazor components like `SfTextBox`, `SfDatePicker`, etc., with full support for schema-driven UI generation.
 
 ---
