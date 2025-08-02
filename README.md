@@ -13,25 +13,25 @@ Our NuGet packages are a mix of production-grade libraries used in the Orbyss pl
 
 ## 📦 Featured Repositories
 
-### 🔧 [Orbyss.Components.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.JsonForms)
+### 🧾 <img src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/script/json-programming-e614b.png" width="24" /> [Orbyss.Components.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.JsonForms)
 The core library that wraps the [JsonForms.io](https://jsonforms.io) standard to generate forms in Blazor using **JSON Schema**, **UI Schema**, and **translation schema**.  
 Built to be UI-framework agnostic, it requires a custom `ComponentInstanceProvider` for integration with specific Blazor libraries.
 
 ---
 
-### 🎨 [Orbyss.Components.MudBlazor.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.MudBlazor.JsonForms)
+### 🖋️ <img src="https://tse2.mm.bing.net/th/id/OIP.KckXqAg1RkJOIfiK0cJqfwHaHa?pid=Api" width="24" />  [Orbyss.Components.MudBlazor.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.MudBlazor.JsonForms)
 An extension of `Orbyss.Components.JsonForms` for [MudBlazor](https://mudblazor.com).  
 Renders JSON-based forms using `MudTextField`, `MudDatePicker`, etc., with full support for schema-driven UI generation.
 
 ---
 
-### 📊 [Orbyss.Components.Syncfusion.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.Syncfusion.JsonForms)
+### 🧾 <img src="https://tse1.mm.bing.net/th/id/OIP.Dj2CTZvhjHHg3iTNsKGdHwHaHa?r=0&pid=Api" width="24" />  [Orbyss.Components.Syncfusion.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.Syncfusion.JsonForms)
 A [Syncfusion](https://www.syncfusion.com/)-powered extension of `Orbyss.Components.JsonForms`.  
 Renders forms using Syncfusion Blazor components like `SfTextBox`, `SfDatePicker`, etc., with full support for schema-driven UI generation.
 
 ---
 
-### 🧮 [Orbyss.Components.Syncfusion.JsonDataGrid](https://github.com/Orbyss-io/Orbyss.Components.Syncfusion.JsonDataGrid)
+### 🧮 <img src="https://tse1.mm.bing.net/th/id/OIP.Dj2CTZvhjHHg3iTNsKGdHwHaHa?r=0&pid=Api" width="24" />  [Orbyss.Components.Syncfusion.JsonDataGrid](https://github.com/Orbyss-io/Orbyss.Components.Syncfusion.JsonDataGrid)
 Use the powerful `SfDataGrid` without writing strongly typed C# classes.  
 Data binding, UI behavior, and validation are entirely JSON Schema-driven — perfect for dynamic or configuration-based UIs.
 
