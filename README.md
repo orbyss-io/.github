@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./orbyss-logo.png" alt="Orbyss Logo" width="180"/>
+  <img src="./orbyss-logo.png" alt="Orbyss Logo" width="180" style="border-radius: 50%;">
 </p>
 
 # 👋 Welcome to Orbyss.io
