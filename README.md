@@ -35,7 +35,7 @@ Renders forms using Syncfusion Blazor components, with full support for schema-d
 ---
 
 ### 🧮 <img src="https://tse1.mm.bing.net/th/id/OIP.Dj2CTZvhjHHg3iTNsKGdHwHaHa?r=0&pid=Api" width="24" />  [Orbyss.Components.Syncfusion.JsonDataGrid](https://github.com/Orbyss-io/Orbyss.Components.Syncfusion.JsonDataGrid)
-Use the powerful `[SfGrid](https://blazor.syncfusion.com/documentation/datagrid/getting-started)` without writing strongly typed C# classes.  
+Use the powerful [SfGrid](https://blazor.syncfusion.com/documentation/datagrid/getting-started) without writing strongly typed C# classes.  
 Data binding and UI behavior such as filters plus columns headers are entirely Schema-driven — perfect for dynamic or configuration-based UIs.
 
 ---
