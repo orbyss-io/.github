@@ -14,12 +14,12 @@ Our NuGet packages are a mix of production-grade libraries used in the Orbyss pl
 ## 📦 Featured Repositories
 
 ### 🧾 <img src="https://tse2.mm.bing.net/th/id/OIP.KckXqAg1RkJOIfiK0cJqfwHaHa?pid=Api" width="24" /> [Orbyss.Blazor.JsonForms](https://github.com/Orbyss-io/Orbyss.Blazor.JsonForms)
+![NuGet](https://img.shields.io/nuget/v/Orbyss.Blazor.JsonForms)
+![NuGet Downloads](https://img.shields.io/nuget/dt/Orbyss.Blazor.JsonForms)
+
 A fully .NET-native implementation of the [JsonForms.io](https://jsonforms.io) standard for schema-driven forms in Blazor.
 
 This core library handles form generation using **JSON Schema**, **UI Schema**, and **translation schema**, while staying UI-framework agnostic.
-
-![NuGet](https://img.shields.io/nuget/v/Orbyss.Blazor.JsonForms)
-![NuGet Downloads](https://img.shields.io/nuget/dt/Orbyss.Blazor.JsonForms)
 
 To use it with any component library, implement a custom ComponentInstanceProvider. We developed implementations for [MudBlazor](https://mudblazor.com) and [Syncfusion](https://www.syncfusion.com/), but you can plug in your own. No Angular or Web Components required.
 
