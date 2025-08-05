@@ -5,7 +5,7 @@
 # 👋 Welcome to Orbyss.io
 
 **Orbyss** provides a platform and .NET components that help developers build native apps faster and more efficiently.  
-We focus on reducing boilerplate, eliminating unnecessary strongly typed code, and enabling rapid UI development with JSON-powered components.
+We focus on reducing boilerplate code, eliminating unnecessary strongly typed code, and enabling rapid UI development with JSON-powered components.
 
 Our NuGet packages are a mix of production-grade libraries used in the Orbyss platform and open source components we believe can thrive with community input.  
 
