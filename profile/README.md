@@ -32,6 +32,8 @@ Renders JSON-based forms with full support for schema-driven UI generation.
 ---
 
 ### 🧾 <img src="https://tse1.mm.bing.net/th/id/OIP.Dj2CTZvhjHHg3iTNsKGdHwHaHa?r=0&pid=Api" width="24" />  [Orbyss.Blazor.Syncfusion.JsonForms](https://github.com/Orbyss-io/Orbyss.Blazor.Syncfusion.JsonForms)
+![NuGet](https://img.shields.io/nuget/v/Orbyss.Blazor.Syncfusion.JsonForms)
+![NuGet Downloads](https://img.shields.io/nuget/dt/Orbyss.Blazor.Syncfusion.JsonForms)
 A [Syncfusion](https://www.syncfusion.com/)-powered extension of `Orbyss.Blazor.JsonForms`.  
 Renders forms using Syncfusion Blazor components, with full support for schema-driven UI generation.
 
