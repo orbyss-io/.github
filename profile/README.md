@@ -17,11 +17,14 @@ Our NuGet packages are a mix of production-grade libraries used in the Orbyss pl
 ![NuGet](https://img.shields.io/nuget/v/Orbyss.Blazor.JsonForms)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Orbyss.Blazor.JsonForms)
 
-A fully .NET-native implementation of the [JsonForms.io](https://jsonforms.io) standard for schema-driven forms in Blazor.
+A fully UI-framework agnostic .NET-native implementation of the [JsonForms.io](https://jsonforms.io) standard for schema-driven forms in Blazor. No Angular or Web Components required.
 
-This core library handles form generation using **JSON Schema**, **UI Schema**, and **translation schema**, while staying UI-framework agnostic.
+The package is meant to support all functionality that is also natively supported by jsonforms.io. If any function is missing or malfunctioning, please let us know and we will fix it right away: either [open an issue](https://github.com/orbyss-io/Orbyss.Blazor.JsonForms/issues), or fork the repo and create a PR.  
+This is an open source project. **Together we can make it better, faster.**
 
-To use it with any component library, implement a custom ComponentInstanceProvider. We developed implementations for [MudBlazor](https://mudblazor.com) and [Syncfusion](https://www.syncfusion.com/), but you can plug in your own. No Angular or Web Components required.
+> **Important Note:** This project is an independent Blazor-based implementation and is **not** affiliated with or supported by the [jsonforms.io](https://jsonforms.io/) team. Please direct all support requests for this package to the Orbyss.io team, not jsonforms.io.
+
+We developed UI implementations for [MudBlazor](https://mudblazor.com) and [Syncfusion](https://www.syncfusion.com/), but you can plug in your own by implementing 'IComponentInstanceProvider'.
 
 ---
 
