@@ -65,7 +65,7 @@ Start with one of the featured repos above — most follow standard .NET contrib
 ## 🌐 Links
 
 - 🌍 Website: [https://orbyss.io](https://orbyss.io)
-- 📦 NuGet: Coming soon
+- 📦 NuGet: [https://www.nuget.org/profiles/Orbyss.io](https://www.nuget.org/profiles/Orbyss.io)
 - 🧑‍💻 GitHub: [github.com/Orbyss-io](https://github.com/Orbyss-io)
 
 ---
