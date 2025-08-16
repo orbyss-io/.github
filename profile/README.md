@@ -31,16 +31,18 @@ We developed UI implementations for [MudBlazor](https://mudblazor.com) and [Sync
 ### 🖋️ <img src="https://tse3.mm.bing.net/th/id/OIP.4bhPD9HHPja01avpSK1ecAHaHa?w=474&h=474&c=7" width="24" />  [Orbyss.Blazor.MudBlazor.JsonForms](https://github.com/Orbyss-io/Orbyss.Blazor.MudBlazor.JsonForms)
 ![NuGet](https://img.shields.io/nuget/v/Orbyss.Blazor.MudBlazor.JsonForms)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Orbyss.Blazor.MudBlazor.JsonForms)
-An extension of `Orbyss.Components.JsonForms` for [MudBlazor](https://mudblazor.com).  
-Renders JSON-based forms with full support for schema-driven UI generation.
+
+The implementation of `Orbyss.Blazor.JsonForms` for [MudBlazor](https://mudblazor.com).  
+Renders JSON-based forms with full support for schema-driven UI generation; based on the [jsonforms.io](https://jsonforms.io) standard.
 
 ---
 
 ### 🧾 <img src="https://tse1.mm.bing.net/th/id/OIP.Dj2CTZvhjHHg3iTNsKGdHwHaHa?r=0&pid=Api" width="24" />  [Orbyss.Blazor.Syncfusion.JsonForms](https://github.com/Orbyss-io/Orbyss.Blazor.Syncfusion.JsonForms)
 ![NuGet](https://img.shields.io/nuget/v/Orbyss.Blazor.Syncfusion.JsonForms)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Orbyss.Blazor.Syncfusion.JsonForms)
-A [Syncfusion](https://www.syncfusion.com/)-powered extension of `Orbyss.Blazor.JsonForms`.  
-Renders forms using Syncfusion Blazor components, with full support for schema-driven UI generation.
+
+The implementation of `Orbyss.Blazor.JsonForms` for [Syncfusion](https://www.syncfusion.com/).  
+Renders JSON-based forms with full support for schema-driven UI generation; based on the [jsonforms.io](https://jsonforms.io) standard.
 
 ---
 
