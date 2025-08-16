@@ -25,7 +25,9 @@ To use it with any component library, implement a custom ComponentInstanceProvid
 
 ---
 
-### 🖋️ <img src="https://tse3.mm.bing.net/th/id/OIP.4bhPD9HHPja01avpSK1ecAHaHa?w=474&h=474&c=7" width="24" />  [Orbyss.Components.MudBlazor.JsonForms](https://github.com/Orbyss-io/Orbyss.Components.MudBlazor.JsonForms)
+### 🖋️ <img src="https://tse3.mm.bing.net/th/id/OIP.4bhPD9HHPja01avpSK1ecAHaHa?w=474&h=474&c=7" width="24" />  [Orbyss.Blazor.MudBlazor.JsonForms](https://github.com/Orbyss-io/Orbyss.Blazor.MudBlazor.JsonForms)
+![NuGet](https://img.shields.io/nuget/v/Orbyss.Blazor.MudBlazor.JsonForms)
+![NuGet Downloads](https://img.shields.io/nuget/dt/Orbyss.Blazor.MudBlazor.JsonForms)
 An extension of `Orbyss.Components.JsonForms` for [MudBlazor](https://mudblazor.com).  
 Renders JSON-based forms with full support for schema-driven UI generation.
 
